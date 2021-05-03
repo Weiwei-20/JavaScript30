@@ -1,4 +1,5 @@
-### Drum Kit JavaScript Practice Note (test)
-- [ ] check
-- [ ] check
-- [ ] check
+#Drum Kit JavaScript Practice Note (test)
+## Subtitle
+
+```
+* []
